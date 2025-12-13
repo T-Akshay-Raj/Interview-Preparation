@@ -1,3 +1,5 @@
+## Detailed at https://akshay-gitbook.gitbook.io/springboot-review-series/hibernate
+
 # Hibernate Revision Notes
 
 ---
