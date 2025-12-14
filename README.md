@@ -7,6 +7,7 @@ Interview Preparation for Java Resources
 - [Java 12] (https://akshay-gitbook.gitbook.io/java-12/)
 - [Java 13] (https://akshay-gitbook.gitbook.io/java-13/)
 - [Java 14] (https://akshay-gitbook.gitbook.io/java-14/)
+- [Java 17] (https://akshay-gitbook.gitbook.io/java-features/)
 
 ### Basic Topics
 - [Basic Java Preparation Gitbook](https://akshay-gitbook.gitbook.io/basic/)
